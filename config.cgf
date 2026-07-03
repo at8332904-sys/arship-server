@@ -1,16 +1,1 @@
-{
-  "Personalizacao": {
-    "CoresRainbow": true
-  },
-  "ConfiguracoesJogo": {
-    "QuantidadeImpostoresHideAndSeek": 2,
-    "ImpostorFazTarefas": true,
-    "VisaoAtravesDasParedes": true,
-    "MaximoRessurreicao": 1,
-    "TrocaDeVotos": true,
-    "ImpostorMataOutro": true,
-    "MaxJogadores": 100
-  },
-  "ModosDeJogo": ["hide_and_seek", "troll", "traidor"],
-  "Mapas": ["Submerged", "ErikCarr"]
-}
+
