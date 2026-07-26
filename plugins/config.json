@@ -75,7 +75,7 @@
 
     "habilitarVampiro" : true ,
     "quantidadeMaxVampiro" : 1 ,
-    "morteAtrasada" : vtrue ,
+    "morteAtrasada" : true ,
     "tempoMorteMordida" : 40 ,
 
     "habilitarLadrão" : true ,
