@@ -8,7 +8,7 @@
   },
 
   "configuracoesGerais" : {
-    "habilitarMod" : verdadeiro ,
+    "habilitarMod" : true,
     "funcionaSalasPrivadas" : true ,
     "funcionaSalasPublicas" : true ,
     "mostrarCargosJogadoresMortos" : true ,
@@ -19,81 +19,81 @@
   },
 
   "cargosTripulantes" : {
-    "habilitarXerife" : verdadeiro ,
+    "habilitarXerife" : true,
     "quantidadeMaxXerife" : 1 ,
     "resfriamentoTiroXerife" : 45 ,
-    "matarInocenteMorre" : verdadeiro ,
+    "matarInocenteMorre" : true ,
 
-    "habilitarMedico" : verdadeiro ,
+    "habilitarMedico" : true,
     "quantidadeMaxMedico" : 1 ,
-    "podeVerCausaMorte" : verdadeiro ,
-    "podeColocarEscudo" : verdadeiro ,
+    "podeVerCausaMorte" : true ,
+    "podeColocarEscudo" : true ,
     "duracaoEscudo" : 90 ,
 
-    "habilitarDetetive" : verdadeiro ,
+    "habilitarDetetive" : true ,
     "quantidadeMaxDetetive" : 1 ,
-    "verPegadas" : verdadeiro ,
+    "verPegadas" : true ,
     "tempoPegadas" : 20 ,
 
-    "habilitarEngenheiro" : verdadeiro ,
+    "habilitarEngenheiro" : true ,
     "quantidadeMaxEngenheiro" : 1 ,
-    "usarVentilacoes" : verdadeiro ,
-    "consertarLonge" : verdadeiro ,
+    "usarVentilacoes" : true ,
+    "consertarLonge" : true ,
 
-    "habilitarVidente" : verdadeiro ,
+    "habilitarVidente" : true ,
     "quantidadeMaxVidente" : 1 ,
-    "verAtravesParedes" : verdadeiro ,
-    "verInocentes" : verdadeiro ,
+    "verAtravesParedes" : true ,
+    "verInocentes" : true ,
 
-    "habilitarVespa" : verdadeiro ,
+    "habilitarVespa" : true ,
     "quantidadeMaxVespa" : 1 ,
-    "movimentoRápido" : verdadeiro ,
-    "atrasarInimigos" : verdadeiro ,
-    "esconderSe" : verdadeiro ,
+    "movimentoRápido" : true ,
+    "atrasarInimigos" : true ,
+    "esconderSe" : true ,
 
-    "habilitarPrefeito" : verdadeiro ,
+    "habilitarPrefeito" : true ,
     "quantidadeMaxPrefeito" : 1 ,
     "votosExtras" : 2 ,
 
-    "habilitarIsca" : verdadeiro ,
+    "habilitarIsca" : true ,
     "quantidadeMaxIsca" : 1 ,
-    "assassinoPreso" : verdadeiro ,
+    "assassinoPreso" : true,
     "tempoPrenderAssassino" : 15
   },
 
   "cargosImpostores" : {
-    "habilitarDeadpool" : verdadeiro ,
+    "habilitarDeadpool" : true ,
     "quantidadeMaxDeadpool" : 1 ,
-    "reviverUmaVez" : verdadeiro ,
+    "reviverUmaVez" : true ,
     "resfriamentoAtaque" : 35 ,
-    "ataqueDuplo" : verdadeiro ,
+    "ataqueDuplo" : true ,
 
     "habilitarMestreFormas" : true ,
     "quantidadeMaxMestreFormas" : 1 ,
     "duraçãoTransformação" : 25 ,
     "resfriamentoTransformação" : 50 ,
 
-    "habilitarVampiro" : verdadeiro ,
+    "habilitarVampiro" : true ,
     "quantidadeMaxVampiro" : 1 ,
-    "morteAtrasada" : verdadeiro ,
+    "morteAtrasada" : vtrue ,
     "tempoMorteMordida" : 40 ,
 
-    "habilitarLadrão" : verdadeiro ,
+    "habilitarLadrão" : true ,
     "quantidadeMaxLadrao" : 1 ,
-    "roubarCargo" : verdadeiro ,
+    "roubarCargo" true ,
 
-    "habilitarAssassino" : verdadeiro ,
+    "habilitarAssassino" : true ,
     "quantidadeMaxAssassino" : 1 ,
-    "apagarProvas" : verdadeiro ,
-    "incompletar tarefas" : verdadeiro
+    "apagarProvas" : true ,
+    "incompletar tarefas" : true
   },
 
   "cargosNeutros" : {
-    "habilitarTrapaceiro" : verdadeiro ,
+    "habilitarTrapaceiro" : true ,
     "quantidadeMaxTrapaceiro" : 1 ,
-    "ganharExpulso" : verdadeiro ,
+    "ganharExpulso" : true ,
 
-    "habilitarCarrasco" : verdadeiro ,
+    "habilitarCarrasco" : true ,
     "quantidadeMaxCarrasco" : 1 ,
     "objetivoExpulsarJogadorEspecifico" : true ,
 
@@ -103,12 +103,12 @@
 
     "habilitarLoboSolitario" : true ,
     "quantidadeMaxLoboSolitario" : 1 ,
-    "ganharUltimoVivo" : verdadeiro
+    "ganharUltimoVivo" : true
   },
 
   "funcoesExtras" : {
     "anfitriaoAlteraRegrasDuranteJogo" : true ,
-    "salvarCarregarConfigurações" : verdadeiro ,
+    "salvarCarregarConfigurações" : true ,
     "compatibilidadeMapaBrasilAlfa" : true ,
     "compatibilidadeGrandeAnfitriao" : true
   }
