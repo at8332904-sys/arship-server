@@ -1,1 +1,115 @@
+{
+  "informacoesMod" : {
+    "nome" : " Cidade de Host Alfa " ,
+    "versao" : " 2.8.15 " ,
+    "criador" : " Augusto — Projeto Grande Anfitrião " ,
+    "base" : " Primeira versão original Town of Host " ,
+    "modo" : " Compatível com salas privadas e públicas "
+  },
 
+  "configuracoesGerais" : {
+    "habilitarMod" : verdadeiro ,
+    "funcionaSalasPrivadas" : true ,
+    "funcionaSalasPublicas" : true ,
+    "mostrarCargosJogadoresMortos" : true ,
+    "velocidadeJogo" : 1.0 ,
+    "tempoVotacao" : 30 ,
+    "numeroImpostores" : 1 ,
+    "maxJogadores" : 15
+  },
+
+  "cargosTripulantes" : {
+    "habilitarXerife" : verdadeiro ,
+    "quantidadeMaxXerife" : 1 ,
+    "resfriamentoTiroXerife" : 45 ,
+    "matarInocenteMorre" : verdadeiro ,
+
+    "habilitarMedico" : verdadeiro ,
+    "quantidadeMaxMedico" : 1 ,
+    "podeVerCausaMorte" : verdadeiro ,
+    "podeColocarEscudo" : verdadeiro ,
+    "duracaoEscudo" : 90 ,
+
+    "habilitarDetetive" : verdadeiro ,
+    "quantidadeMaxDetetive" : 1 ,
+    "verPegadas" : verdadeiro ,
+    "tempoPegadas" : 20 ,
+
+    "habilitarEngenheiro" : verdadeiro ,
+    "quantidadeMaxEngenheiro" : 1 ,
+    "usarVentilacoes" : verdadeiro ,
+    "consertarLonge" : verdadeiro ,
+
+    "habilitarVidente" : verdadeiro ,
+    "quantidadeMaxVidente" : 1 ,
+    "verAtravesParedes" : verdadeiro ,
+    "verInocentes" : verdadeiro ,
+
+    "habilitarVespa" : verdadeiro ,
+    "quantidadeMaxVespa" : 1 ,
+    "movimentoRápido" : verdadeiro ,
+    "atrasarInimigos" : verdadeiro ,
+    "esconderSe" : verdadeiro ,
+
+    "habilitarPrefeito" : verdadeiro ,
+    "quantidadeMaxPrefeito" : 1 ,
+    "votosExtras" : 2 ,
+
+    "habilitarIsca" : verdadeiro ,
+    "quantidadeMaxIsca" : 1 ,
+    "assassinoPreso" : verdadeiro ,
+    "tempoPrenderAssassino" : 15
+  },
+
+  "cargosImpostores" : {
+    "habilitarDeadpool" : verdadeiro ,
+    "quantidadeMaxDeadpool" : 1 ,
+    "reviverUmaVez" : verdadeiro ,
+    "resfriamentoAtaque" : 35 ,
+    "ataqueDuplo" : verdadeiro ,
+
+    "habilitarMestreFormas" : true ,
+    "quantidadeMaxMestreFormas" : 1 ,
+    "duraçãoTransformação" : 25 ,
+    "resfriamentoTransformação" : 50 ,
+
+    "habilitarVampiro" : verdadeiro ,
+    "quantidadeMaxVampiro" : 1 ,
+    "morteAtrasada" : verdadeiro ,
+    "tempoMorteMordida" : 40 ,
+
+    "habilitarLadrão" : verdadeiro ,
+    "quantidadeMaxLadrao" : 1 ,
+    "roubarCargo" : verdadeiro ,
+
+    "habilitarAssassino" : verdadeiro ,
+    "quantidadeMaxAssassino" : 1 ,
+    "apagarProvas" : verdadeiro ,
+    "incompletar tarefas" : verdadeiro
+  },
+
+  "cargosNeutros" : {
+    "habilitarTrapaceiro" : verdadeiro ,
+    "quantidadeMaxTrapaceiro" : 1 ,
+    "ganharExpulso" : verdadeiro ,
+
+    "habilitarCarrasco" : verdadeiro ,
+    "quantidadeMaxCarrasco" : 1 ,
+    "objetivoExpulsarJogadorEspecifico" : true ,
+
+    "habilitarSobrevivente" : true ,
+    "quantidadeMaxSobrevivente" : 1 ,
+    "escudosIniciais" : 3 ,
+
+    "habilitarLoboSolitario" : true ,
+    "quantidadeMaxLoboSolitario" : 1 ,
+    "ganharUltimoVivo" : verdadeiro
+  },
+
+  "funcoesExtras" : {
+    "anfitriaoAlteraRegrasDuranteJogo" : true ,
+    "salvarCarregarConfigurações" : verdadeiro ,
+    "compatibilidadeMapaBrasilAlfa" : true ,
+    "compatibilidadeGrandeAnfitriao" : true
+  }
+  }
