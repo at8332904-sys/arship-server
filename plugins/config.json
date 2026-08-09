@@ -1,9 +1,9 @@
 {
   "informacoesMod" : {
-    "nome" : " Cidade de Host Alfa " ,
+    "nome" : " Airship-sever " ,
     "versao" : " 2.8.15 " ,
-    "criador" : " Augusto — Projeto Grande Anfitrião " ,
-    "base" : " Primeira versão original Town of Host " ,
+    "criador" : " Augusto — airship-sever" ,
+    "base" : " Primeira versão original do Modding Us" ,
     "modo" : " Compatível com salas privadas e públicas "
   },
 
@@ -109,7 +109,6 @@
   "funcoesExtras" : {
     "anfitriaoAlteraRegrasDuranteJogo" : true ,
     "salvarCarregarConfigurações" : true ,
-    "compatibilidadeMapaBrasilAlfa" : true ,
-    "compatibilidadeGrandeAnfitriao" : true
+    "compatibilidadeMapasubmerged" : true ,
   }
   }
