@@ -1,9 +1,9 @@
 {
   "informacoesMod": {
-    "nome": "Town of Host Alfa",
+    "nome": "Airship-sever",
     "versao": "2.8.15",
-    "criador": "Augusto — Projeto Grande Anfitrião",
-    "base": "Primeira versão original Town of Host",
+    "criador": "Augusto — Airship-sever",
+    "base": "Primeira versão original Modding US",
     "modo": "Compatível com salas privadas e públicas"
   },
 
@@ -12,10 +12,10 @@
     "funcionaSalasPrivadas": true,
     "funcionaSalasPublicas": true,
     "mostrarCargosJogadoresMortos": true,
-    "velocidadeJogo": 1.0,
+    "velocidadeJogo":1.0,
     "tempoVotacao": 30,
     "numeroImpostores": 1,
-    "maxJogadores": 15
+    "maxJogadores": 100
   },
 
   "cargosTripulantes": {
