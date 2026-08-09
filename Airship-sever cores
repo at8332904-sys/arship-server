@@ -1,0 +1,201 @@
+Usando  TOU Mira. Cores ;
+
+namespace  Airship-sever ;
+
+[ RegistrarCoresPersonalizadas ]
+ classe pública estática  Airship-severColors 
+{
+    public  static  CustomColor  Watermelon  {  get ;  }  =  new ( "Watermelon" ,
+        novo  Color32 ( 168 ,  50 ,  62 ,  byte . MaxValue ) ,
+        novo  Color32 ( 101 ,  30 ,  37 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Chocolate  {  get ;  }  =  new ( "Chocolate" ,
+        novo  Color32 ( 60 ,  48 ,  44 ,  byte . MaxValue ) ,
+        novo  Color32 ( 30 ,  24 ,  22 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  SkyBlue  {  get ;  }  =  new ( "SkyBlue" ,
+        novo  Color32 ( 61 ,  129 ,  255 ,  byte . MaxValue ) ,
+        novo  Color32 ( 31 ,  65 ,  128 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Bege  {  get ;  }  =  new ( "Bege" ,
+        novo  Color32 ( 240 ,  211 ,  165 ,  byte . MaxValue ) ,
+        novo  Color32 ( 120 ,  106 ,  83 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Magenta  {  get ;  }  =  new ( "Magenta" ,
+        novo  Color32 ( 255 ,  0 ,  127 ,  byte . MaxValue ) ,
+        novo  Color32 ( 191 ,  0 ,  95 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  SeaGreen  {  get ;  }  =  new ( "SeaGreen" ,
+        novo  Color32 ( 61 ,  255 ,  181 ,  byte . MaxValue ) ,
+        novo  Color32 ( 31 ,  128 ,  91 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Lilac  {  get ;  }  =  new ( "Lilac" ,
+        novo  Color32 ( 186 ,  161 ,  255 ,  byte . MaxValue ) ,
+        novo  Color32 ( 93 ,  81 ,  128 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Olive  {  get ;  }  =  new ( "Olive" ,
+        novo  Color32 ( 97 ,  114 ,  24 ,  byte . MaxValue ) ,
+        novo  Color32 ( 66 ,  91 ,  15 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Azure  {  get ;  }  =  new ( "Azure" ,
+        novo  Color32 ( 1 ,  166 ,  255 ,  byte . MaxValue ) ,
+        novo  Color32 ( 17 ,  104 ,  151 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Plum  {  get ;  }  =  new ( "Plum" ,
+        novo  Color32 ( 79 ,  0 ,  127 ,  byte . MaxValue ) ,
+        novo  Color32 ( 55 ,  0 ,  95 ,  byte . MaxValue ) )
+    {
+        ColorBrightness = CustomColorBrightness.Darker
+    };
+
+    public static CustomColor Jungle { get; } = new("Jungle",
+        new Color32(0, 47, 0, byte.MaxValue),
+        new Color32(0, 23, 0, byte.MaxValue))
+    {
+        ColorBrightness = CustomColorBrightness.Darker
+    };
+
+    public static CustomColor Mint { get; } = new("Mint",
+        new Color32(151, 255, 151, byte.MaxValue),
+        new Color32(109, 191, 109, byte.MaxValue))
+    {
+        ColorBrightness = CustomColorBrightness.Lighter
+    };
+
+    public static CustomColor Chartreuse { get; } = new("Chartreuse",
+        new Color32(207, 255, 0, byte.MaxValue),
+        new Color32(143, 191, 61, byte.MaxValue))
+    {
+        ColorBrightness = CustomColorBrightness.Lighter
+    };
+
+    public static CustomColor Macau { get; } = new("Macau",
+        new Color32(0, 97, 93, byte.MaxValue),
+        new Color32(0, 65, 61, byte.MaxValue))
+    {
+        ColorBrightness = CustomColorBrightness.Darker
+    };
+
+    public static CustomColor Tawny { get; } = new("Tawny",
+        new Color32(205, 63, 0, byte.MaxValue),
+        new Color32(141, 31, 0, byte.MaxValue))
+    {
+        ColorBrightness = CustomColorBrightness.Lighter
+    };
+
+    public static CustomColor Gold { get; } = new("Gold",
+        new Color32(255, 207, 0, byte.MaxValue),
+        new Color32(191, 143, 0, byte.MaxValue))
+    {
+        ColorBrightness = CustomColorBrightness.Darker
+    };
+
+    public static CustomColor Snow { get; } = new("Snow",
+        new Color32(255, 255, 255, byte.MaxValue),
+        new Color32(163, 194, 223, byte.MaxValue))
+    {
+        ColorBrightness = CustomColorBrightness.Lighter
+    };
+
+    public static CustomColor Turquoise { get; } = new("Turquoise",
+        novo  Color32 ( 4 ,  5 ,  7 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Midnight  {  get ;  }  =  new ( "Midnight" ,
+        novo  Color32 ( 16 ,  46 ,  104 ,  byte . MaxValue ) ,
+        novo  Color32 ( 8 ,  27 ,  65 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Steel  {  get ;  }  =  new ( "Steel" ,
+        novo  Color32 ( 93 ,  97 ,  118 ,  byte . MaxValue ) ,
+        novo  Color32 ( 59 ,  60 ,  81 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Silver  {  get ;  }  =  new ( "Silver" ,
+        novo  Color32 ( 203 ,  220 ,  219 ,  byte . MaxValue ) ,
+        novo  Color32 ( 105 ,  125 ,  121 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Shimmer  {  get ;  }  =  new ( "Shimmer" ,
+        novo  Color32 ( 54 ,  252 ,  169 ,  byte . MaxValue ) ,
+        novo  Color32 ( 30 ,  189 ,  191 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Crimson  {  get ;  }  =  new ( "Crimson" ,
+        novo  Color32 ( 174 ,  29 ,  74 ,  byte . MaxValue ) ,
+        novo  Color32 ( 107 ,  22 ,  72 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Charcoal  {  get ;  }  =  new ( "Charcoal" ,
+        novo  Color32 ( 50 ,  48 ,  78 ,  byte . MaxValue ) ,
+        novo  Color32 ( 12 ,  15 ,  46 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Violet  {  get ;  }  =  new ( "Violet" ,
+        novo  Color32 ( 128 ,  6 ,  178 ,  byte . MaxValue ) ,
+        novo  Color32 ( 78 ,  16 ,  145 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  Denim  {  get ;  }  =  new ( "Denim" ,
+        novo  Color32 ( 54 ,  47 ,  188 ,  byte . MaxValue ) ,
+        novo  Color32 ( 21 ,  21 ,  129 ,  byte . MaxValue ) )
+    {
+        BrilhoDaCor  =  BrilhoDaCorPersonalizado.Mais Escuro
+    } ;
+
+    public  static  CustomColor  CottonCandy  {  get ;  }  =  new ( "CottonCandy" ,
+        novo  Color32 ( 255 ,  141 ,  189 ,  byte . MaxValue ) ,
+        novo  Color32 ( 241 ,  68 ,  166 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+
+    public  static  CustomColor  Rainbow  {  get ;  }  =  new ( "Rainbow" ,
+        novo  Color32 ( 0 ,  0 ,  0 ,  byte . MaxValue ) )
+    {
+        Brilho da cor  = Brilho  da cor personalizado . Mais claro
+    } ;
+}
