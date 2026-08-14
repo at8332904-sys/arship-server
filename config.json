@@ -1,0 +1,114 @@
+{
+  "informacoesMod": {
+    "nome":"dirigível-sever",
+    "versao":"2.8.15",
+    "criador":"Augusto — dirigível-servidor",
+    "base":"Primeira versão original do Modding Us",
+    "modo":"Compatível com salas privadas e públicas"
+  },
+
+  "configuraçõesGerais": {
+    "habilitarMod":true,
+    "funcionaSalasPrivadas":true,
+    "funcionaSalasPublicas":true,
+    "mostrarCargosJogadoresMortos":true,
+    "veloarJogo":1.0,
+    "tempoVotacao":30,
+    "numeroImpostores":1,
+    "maxJogadores":15
+  },
+
+  "cargosTripulantes": {
+    "habilitarXerife":true,
+    "quantidadeMaxXerife":1,
+    "resfriamentoTiroXerife":45,
+    "matarInocenteMorre":false,
+
+    "habilitarMédico":true,
+    "quantidadeMaxMedico":1,
+    "podeVerCausaMorte":true,
+    "podeColocarEscudo":true,
+    "duraçãoEscudo":90,
+
+    "habilitarDetetive":true,
+    "quantidadeMaxDetetive":1,
+    "verPegadas":true,
+    "tempoPegadas":20,
+
+    "habilitarEngenheiro":true,
+    "quantidadeMaxEngenheiro":1,
+    "usarVentilacoes":true,
+    "consertarLonge":true,
+
+    "habilitarVidente":true,
+    "quantidadeMaxVidente":1,
+    "verAtravesParedes":true,
+    "verInocentes":true  ,
+
+    "habilitarinformante":true,
+    "quantidadeMaximformante":1,
+    "descobri quemé impostorpor tarefa":true,
+    "impostores saber quem é por uma seta":true,
+    "tripulantes saber quem é":false,
+
+    "habilitarPrefeito":true,
+    "quantidadeMaxPrefeito":1,
+    "votosExtras":5,
+
+    "habilitarIsca":true,
+    "quantidadeMaxIsca":1,
+    "assassinoPreso"true,
+    "tempoPrenderAssassino":15
+  },
+
+  "cargosImpostores": {
+    "habilitarDeadpool"true,
+    "quantidadeMaxDeadpool":1,
+    "reviverUmaVez":true,
+    "resfriamentoAtaque":35,
+    "ataqueDuplo":true,
+
+    "habilitarMestreFormas":true,
+    "quantidadeMaxMestreFormas":1,
+    "duraçãoTransformação":25,
+    "resfriamentoTransformação":50,
+
+    "habilitarVampiro":true,
+    "quantidadeMaxVampiro":1,
+    "morteAtrasada":true,
+    "tempoMorteMordida":20,
+
+    "habilitarLadrão":true,
+    "quantidadeMaxLadrao":1,
+    "isoladoCarga" :true,
+
+    "habilitarAssassino":true,
+    "quantidadeMaxAssassino":1,
+    "apagarProvas":true,
+    "tarefas incompletas":true,
+  },
+
+  "cargosNeutros": {
+    "habilitarJESTER":true,
+    "quantidadeMaxTJester":1,
+    "ganharExpulso":true,
+
+    "habilitarCarrasco":true,
+    "quantidadeMaxCarrasco":1,
+    "objetivoExpulsarJogadorEspecífico":true,
+
+    "habilitar revivente":true,
+    "quantidadeMax vivente":1,
+    "escudosIniciais":3,
+
+    "habilitarVerity":true,
+    "quantidadeMaxLVerity":1,
+    "ganharportask":true
+  },
+
+  "Airship-sever": {
+    "anfitriaoAlteraRegrasDuranteJogo":true,
+    "salvarCarregarConfigurações":true,
+    "compatibilidadeMapasubmerso":true,
+  }
+  }
