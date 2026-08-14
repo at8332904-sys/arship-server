@@ -101,9 +101,9 @@
     "quantidadeMaxSobrevivente" : 1 ,
     "escudosIniciais" : 3 ,
 
-    "habilitarLoboSolitario" : true ,
-    "quantidadeMaxLoboSolitario" : 1 ,
-    "ganharUltimoVivo" : true
+    "habilitarVerity" : true ,
+    "quantidadeMaxLVerity" : 1 ,
+    "ganharportask" : true
   },
 
   "funcoesExtras" : {
