@@ -45,11 +45,11 @@
     "verAtravesParedes" : true ,
     "verInocentes" : true ,
 
-    "habilitarVespa" : true ,
-    "quantidadeMaxVespa" : 1 ,
-    "movimentoRápido" : true ,
-    "atrasarInimigos" : true ,
-    "esconderSe" : true ,
+    "habilitarinformante" : true ,
+    "quantidadeMaximformante" : 1 ,
+    "descobri quemé impostorpor task" : true ,
+    "impostores saber quem é por uma seta" : true ,
+    "tripulantes saber quem é" : false ,
 
     "habilitarPrefeito" : true ,
     "quantidadeMaxPrefeito" : 1 ,
