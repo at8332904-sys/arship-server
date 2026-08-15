@@ -57,12 +57,12 @@
 
     "habilitarIsca":true,
     "quantidadeMaxIsca":1,
-    "assassinoPreso"true ,
+    "assassinoPreso" true ,
     "tempoPrenderAssassino":15
   },
 
   "cargosImpostores": {
-    "habilitarDeadpool"true ,
+    "habilitarDeadpool" true ,
     "quantidadeMaxDeadpool":1,
     "reviverUmaVez":true,
     "resfriamentoAtaque":35,
