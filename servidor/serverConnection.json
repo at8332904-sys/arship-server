@@ -1,10 +1,10 @@
 
-  "nome_servidor" : "América do Sul"
-  "descricao" : " Servidor oficial do mod Extra Funções " ,
-  "endereco" : " seu-servidor.exemplo.com " ,
+  "nome_servidor" : "Airship-sever"
+  "descricao" : " Servidor oficial do mod airship-sever" ,
+  "endereco" : " airship-sever.com " ,
   "porta" : 22023 ,
   "protocolo" : " tcp " ,
   "versao_compatibilidade" : " 2026.07.x " ,
-  "região" : " América do Sul " ,
+  "região" : " América do Sul" ,
   "prioridade" : 1 ,
   "requer_mod" : true
