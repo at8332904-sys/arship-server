@@ -1,12 +1,24 @@
-Airship-sever é um mod para o Among Us que se baseia na versões de 2024 e 2023 do Among Us 
+🔗com relação a este mod (AIRSHIP-SEVER)
+este mod é baseado na versão antiga do Among us , então ele pode conter alguns bugs imprevistos pela a nossa equipe, tentaremos deixar os servidores mais fortes e aguentar alguns mods pesados!
+🔗mapas
+bom, além dos mapas originais teremos mapas personalizados e criado por nós e a comunidade 
+🔗 mapas previstos 
+.AIRSHIP
+.THE SKELD
+.MIRA HQ
+BETTER POLUS (não confunda com POLUS)
+SUBMERGED
+NOVOS MAPAS CRIADOS POR NÓS (NÃO IREMOS CONTAR)
+🔗E JOGAR COM MAIS DE 100 JOGADORES!!!
+SIM, neste mod terá incríveis 200 jogadores 
+🔗 GAMEMODE 
+SPEEDRUN
+FFA
+DESASTRE NATURAL 
+BED WARS
+CORRIDA ENTRE SALAS 
+🔗 EMOJIS NO CHAT E NO GAME
+SIM,com este mod você 🫵 poderá jogar fazendo dança (kkk) e mandando emojis no chat
 
-QUIS MAPAS VAI TER ? 
-
-submerged e mapas do levelimposter
-
- DA PARA JOGAR ONLINE COM  50 jogadores 
-
-FUNÇÕES NOVAS 
-além de de novas skins e emoji no chat e os famosas animações do Emote MOD
-falou para vocês 
-bru
+por enquanto é apenas isso que teremos (além de novas funções), BRU
+AUGUSTOCAR 
