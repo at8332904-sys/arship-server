@@ -1,5 +1,6 @@
 
 🔗com relação a este mod
+
 (AIRSHIP-SEVER)
 este mod é baseado na versão antiga do Among us , então ele pode conter alguns bugs imprevistos pela a nossa equipe, tentaremos deixar os servidores mais fortes e aguentar alguns mods pesados!
 
