@@ -41,4 +41,5 @@ SIM,com este mod você 🫵 poderá jogar fazendo dança (kkk) e mandando emojis
 
 por enquanto é apenas isso que teremos (além de novas funções), BRU
 
-AUGUSTOCAR 
+
+#### instalação 
