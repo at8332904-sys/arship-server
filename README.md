@@ -42,4 +42,7 @@ SIM,com este mod você 🫵 poderá jogar fazendo dança (kkk) e mandando emojis
 por enquanto é apenas isso que teremos (além de novas funções), BRU
 
 
-#### instalação 
+ instalação 
+
+ANDROID 
+vá na aba realeses do Github ou no Curse Forge e baixe o APK mais recente e depois instale,vai gerar um  
