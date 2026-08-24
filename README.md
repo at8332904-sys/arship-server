@@ -40,3 +40,13 @@ CORRIDA ENTRE SALAS
 SIM,com este mod você 🫵 poderá jogar fazendo dança (kkk) e mandando emojis no chat
 
 por enquanto é apenas isso que teremos (além de novas funções)bru
+
+GUIA DE INSTALAÇÃO
+
+ANDROID
+
+1.va na aba release do Github ou no Curse Forge 2.baixe o APK mais recente. 3.instale no seu celular 4.entre no aplicativo e joguei
+
+PC.
+
+1.va na aba release do repositório 2.baixe e instale (bem dizer é o mesmo método do Android) deixo claro que não tem para iPhone AUGUSTOCARR E PAULA GONTIJO
