@@ -22,7 +22,7 @@ SALA SEGURA:o jogo começará com os jogadores com o nome da sala que o impostor
 
 TRANSFORMADOR:um gamemode que os tripulantes vão se transformar em objetos,mas os impostores vão ter uma bola de detecção que tentaram achar os tripulantes que estaram escondidos no mapa.
 
-# Mods antigos sendo revividos 
+# Mods antigos revividos 
 
 SIM,com este mod você  poderá jogar com as funções do velho Town of us ou às skins do Town of polus além do mod Move mod ( tá no starlight) que só vai funcionar em salas privadas 
 
