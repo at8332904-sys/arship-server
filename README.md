@@ -28,7 +28,7 @@ SIM,com este mod você  poderá jogar com as funções do velho Town of us ou à
 
 # Guia de instalação 
 
-ANDROID
+ANDROID 
 
 1.va na aba release do Github ou no Curse Forge 2.baixe o APK mais recente. 3.instale no seu celular 4.entre no aplicativo e joguei
 
