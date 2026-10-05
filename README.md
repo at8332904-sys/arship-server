@@ -2,7 +2,7 @@
 # 🔗com relação a este mod
 
 (AIRSHIP-SEVER)
-este mod é um servidor do Among us , então ele pode conter alguns bugs imprevistos pela a nossa equipe, tentaremos deixar os servidores mais fortes e aguentar alguns mods pesados!
+este mod é um servidor do Among us.
 
 # 🔗mapas
 
