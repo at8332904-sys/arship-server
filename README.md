@@ -16,7 +16,7 @@ NOVOS MAPAS CRIADOS POR NÓS (NÃO IREMOS CONTAR)
 
 # 🔗 GAMEMODE 
 
-BED WARS: A duas equipes que lutaram para pegar as bandeiras de cada uma,mas além de ter poderes que podem ajudar ambos das equipes ganhar, detalhe os poderes estaram espalhados no mapa,o melhor mapa para jogar este gamemode é o skeld, polus.
+BED WARS: A duas equipes que lutaram para pegar as bandeiras  de cada uma,mas além de ter poderes que podem ajudar ambos das equipes ganhar, detalhe os poderes estaram espalhados no mapa,o melhor mapa para jogar este gamemode é o skeld, polus.
 
 
 SALA SEGURA:o jogo começará com os jogadores com o nome da sala que o impostor não pode matar,mas só tem uma forma dos tripulantes ganharem que é terminando tarefas 
