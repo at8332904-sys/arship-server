@@ -36,6 +36,6 @@ PC.
 
 1.va na aba release do repositório 2.baixe e instale (bem dizer é o mesmo método do Android) 
 
-deixo claro que não tem para iPhone 
+ não tem para iPhone 
 
 AUGUSTOCARR E PAULA GONTIJO
