@@ -31,14 +31,21 @@ Funções do Town of us:
 The roles in this mod are:
 
 Mayor
+
 Jester
+
 Sheriff
+
 Lovers
+
 Mafia - Godfather, Janitor & Mafioso
-Engineer
+
 Swapper
+
 Shifter
+
 Investigator
+
 Time Master
 
 # Guia de instalação 
