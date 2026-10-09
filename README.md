@@ -26,6 +26,21 @@ TRANSFORMADOR:um gamemode que os tripulantes vão se transformar em objetos,mas 
 
 SIM,com este mod você  poderá jogar com as funções do velho Town of us ou às skins do Town of polus além do mod Move mod ( tá no starlight) que só vai funcionar em salas privadas 
 
+Funções do Town of us:
+
+The roles in this mod are:
+
+Mayor
+Jester
+Sheriff
+Lovers
+Mafia - Godfather, Janitor & Mafioso
+Engineer
+Swapper
+Shifter
+Investigator
+Time Master
+
 # Guia de instalação 
 
 Android📱
