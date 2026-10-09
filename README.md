@@ -52,12 +52,28 @@ Time Master
 
 Android📱
 
-1.va na aba release do Github ou no Curse Forge 2.baixe o APK mais recente. 3.instale no seu celular 4.entre no aplicativo e joguei
+1.va na aba release do Github ou no Curse Forge 
+
+2.baixe o APK mais recente.
+
+3.instale no seu celular
+
+4.entre no aplicativo e jogue.
 
 PC.
 
 1.va na aba release do repositório 2.baixe e instale (bem dizer é o mesmo método do Android) 
 
- não tem para iPhone 
+ Para os usuários de celulares com sistema IOS (principalmente iPhone) o mod não irá funcionar até acharmos um método, agradeço a compreensão.
 
-AUGUSTOCARR E PAULA GONTIJO
+# colaboradores 
+
+Líder do projeto: 217modG
+
+Luckzin: criador de boa parte das funções 
+
+Paula: ajuda a manter servidores funcionando
+
+Nati 217: ajuda em língua de outros países 
+
+Alvinho: criador de texturas do Polus.GG e outras skins
