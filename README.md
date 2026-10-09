@@ -15,7 +15,7 @@ NOVOS MAPAS CRIADOS POR NÓS (NÃO IREMOS CONTAR)
 
 # 🔗 GAMEMODE 
 
-BED WARS: A duas equipes que lutaram para pegar as bandeiras  de cada uma,mas além de ter poderes que podem ajudar ambos das equipes ganhar, detalhe os poderes estaram espalhados no mapa,o melhor mapa para jogar este gamemode é o skeld e polus.
+BED WARS: A duas equipes que lutaram para pegar as bandeiras⛳  de cada uma,mas além de ter poderes que podem ajudar ambos das equipes ganhar, detalhe os poderes estaram espalhados no mapa,o melhor mapa para jogar este gamemode é o skeld e polus.
 
 
 SALA SEGURA:o jogo começará com os jogadores com o nome da sala que o impostor não pode matar,mas só tem uma forma dos tripulantes ganharem que é terminando tarefas 
@@ -28,7 +28,7 @@ SIM,com este mod você  poderá jogar com as funções do velho Town of us ou à
 
 # Guia de instalação 
 
-ANDROID 
+Android📱
 
 1.va na aba release do Github ou no Curse Forge 2.baixe o APK mais recente. 3.instale no seu celular 4.entre no aplicativo e joguei
 
