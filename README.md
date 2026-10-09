@@ -28,7 +28,7 @@ SIM,com este mod você  poderá jogar com as funções do velho Town of us ou à
 
 Funções do Town of us:
 
-The roles in this mod are:
+Os papéis neste mod são:
 
 Mayor
 
